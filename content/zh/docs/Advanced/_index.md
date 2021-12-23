@@ -1,7 +1,7 @@
 
 ---
 title: "进阶学习"
-linkTitle: "PhysIKA进阶学习"
+linkTitle: "Peridyno进阶学习"
 weight: 5
 date: 2017-01-04
 description: >

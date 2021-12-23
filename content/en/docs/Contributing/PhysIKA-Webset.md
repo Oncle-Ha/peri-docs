@@ -1,8 +1,8 @@
 ---
-title: "How to contribute to PhysIKA documentation"
+title: "How to contribute to Peridyno documentation"
 linkTitle: "Docs"
 description: >
-  This page tells you how to build PhysIKA website, including installation and basic configuration.
+  This page tells you how to build Peridyno website, including installation and basic configuration.
 ---
 
 
@@ -97,15 +97,15 @@ npm install -D --save postcss-cli
 Note that versions of `PostCSS` later than 5.0.1 will not load `autoprefixer` if installed [globally](https://flaviocopes.com/npm-packages-local-global/), you must use a local install.
 
 
-## Clone PhysiKA webset code and run
+## Clone Peridyno webset code and run
 
-1.  Make a local working copy of the PhysiKA webset directly using `git clone`:
+1.  Make a local working copy of the Peridyno webset directly using `git clone`:
 
-        git clone https://github.com/PhysikaTeam/PhysIKA-website.git
+        git clone https://github.com/peridyno/peri-docs.git
     
 2. Switch to the root of the cloned project, for example:
 
-        cd physIKA-website
+        cd peri-docs
     
 3. Build your site:
     
@@ -121,7 +121,7 @@ In the cmd of windows, enter into current folder, and input `hugo server` to lau
 
 
 ## Pull requests
-Finally, you should make an "Pull requests" at our github repository. Thanks for your contribution to PhysIKA opensource project!
+Finally, you should make an "Pull requests" at our github repository. Thanks for your contribution to Peridyno opensource project!
 
 ## Publishing website
 1. Generate public folder
@@ -134,12 +134,12 @@ Finally, you should make an "Pull requests" at our github repository. Thanks for
 		git init
 		git add -A
 		git commit -am "init"
-		git remote add origin https://github.com/PhysikaTeam/PhysikaTeam.github.io
+		git remote add origin https://github.com/peridyno/peri-docs.github.io
 		git push -f origin master
-
+<!--
 3. Modify Custom domain(If you have permission)
-	Enter the settings of the PhysikaTeam.github.io project(https://github.com/PhysikaTeam/PhysikaTeam.github.io/settings). Add `www.physika.net` in Custom domain. 
-	Wait a few minutes, you can see PhysiIKA website on `www.physika.net`.
-
+	Enter the settings of the PhysikaTeam.github.io project(https://github.com/peridyno/peri-docs.github.io/settings). Add `www.Peridyno.net` in Custom domain. 
+	Wait a few minutes, you can see PhysiIKA website on `www.Peridyno.net`.
+-->
 
 # If our project is helpful to you, give a star and watch us!!!
