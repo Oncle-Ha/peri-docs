@@ -8,7 +8,7 @@ menu:
     weight: 20
 ---
 
-This documentation contains all informations available to help you start using PhysIKA and developing your own application.
+This documentation contains all informations available to help you start using Peridyno and developing your own application.
 
 
 

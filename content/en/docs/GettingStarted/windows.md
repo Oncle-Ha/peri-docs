@@ -3,12 +3,12 @@ title: "Windows"
 linkTitle: "Windows"
 date: 2017-01-05
 description: >
-  A tutorial on how to run PhysIKA on windows 10.
+  A tutorial on how to run Peridyno on windows 10.
 ---
 
-# How to build physika  in windows environment
+# How to build Peridyno  in windows environment
 
-This page tells you how to build physika, including installation and basic configuration.
+This page tells you how to build Peridyno, including installation and basic configuration.
 
 ### Install Cmake
 
@@ -35,13 +35,13 @@ This page tells you how to build physika, including installation and basic confi
 
    ![](vs.PNG)
 
-### Install PhysiKA
+### Install Peridyno
 
-1. pull the latest version of the Physika project by directly using `git clone`.
+1. pull the latest version of the Peridyno project by directly using `git clone`.
 
    ```
-   git clone https://github.com/PhysikaTeam/PhysIKA.git
-   cd PhysIKA
+   git clone https://github.com/peridyno/peri-docs.git
+   cd Peridyno
    git submodule update --init --recursive`
    git checkout -b dev
    git pull origin dev

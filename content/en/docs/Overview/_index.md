@@ -3,7 +3,7 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  An overview of PhysIKA.
+  An overview of Peridyno.
 ---
 
 {{% pageinfo %}}
@@ -12,13 +12,13 @@ Making the simulation as simple as possible.
 
 ## What is it?
 
-PhysIKA is short fo Physics-based Interactive Kinematics Architecture. It is an open source node-based architecture targeted at real-time simulation of versatile physical materials. Currently, it supports simulating physical phenomena ranging from fluids, elastic objects and fracture, etc. It is higly modualized and can also help the research community develop novel algorithms.
+Peridyno is short fo Physics-based Interactive Kinematics Architecture. It is an open source node-based architecture targeted at real-time simulation of versatile physical materials. Currently, it supports simulating physical phenomena ranging from fluids, elastic objects and fracture, etc. It is higly modualized and can also help the research community develop novel algorithms.
 
-## What can I expect from PhysIKA?
+## What can I expect from Peridyno?
 
-Followings are a set of features making PhysIKA unique to simulate a complex physical senario in a efficient way: 
+Followings are a set of features making Peridyno unique to simulate a complex physical senario in a efficient way: 
 
-* **Template programming**: PhysIKA support a wide class of commonly used data structre in the form of templates.
+* **Template programming**: Peridyno support a wide class of commonly used data structre in the form of templates.
 
 * **Highly modularized**: The whole is modularized from top to bottom, therefore, custom behaviors can easily obtained by extending existing components.
 
@@ -31,6 +31,6 @@ Followings are a set of features making PhysIKA unique to simulate a complex phy
 
 Give your users next steps from the Overview. For example:
 
-* [Getting Started](/docs/gettingstarted/): Get started with PhysIKA
+* [Getting Started](/docs/gettingstarted/): Get started with Peridyno
 * [Examples](/docs//examples/): Check out some example code!
 

@@ -7,4 +7,4 @@ description: >
 ---
 
 
-See also the list of [contributors](https://github.com/PhysikaTeam/PhysIKA/graphs/contributors) who are currently participated in this project.
+See also the list of [contributors](https://github.com/PhysikaTeam/Peridyno/graphs/contributors) who are currently participated in this project.

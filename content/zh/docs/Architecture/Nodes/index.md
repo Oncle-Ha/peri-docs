@@ -68,7 +68,7 @@ private:
     */
 };
 ```
-为了被PhysIKA中的反射系统识别，每个类都应该从以下宏定义开始：
+为了被Peridyno中的反射系统识别，每个类都应该从以下宏定义开始：
 ```go
   DECLARE_CLASS(ClassName)
 ```
@@ -94,7 +94,7 @@ or
   static Object* createObject(std::string name);
 ```
 
-此外，还可以从PhysIKA Studio创建反射类的实例。
+此外，还可以从Peridyno Studio创建反射类的实例。
 ![示例](createInstanceFromQt.jpg)
 
 ### 节点端口

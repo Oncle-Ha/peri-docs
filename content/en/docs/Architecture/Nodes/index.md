@@ -69,7 +69,7 @@ private:
     */
 };
 ```
-To be recognized by the reflecting system in PhysIKA, each class should be started with the following macro definition
+To be recognized by the reflecting system in Peridyno, each class should be started with the following macro definition
 ```go
   DECLARE_CLASS(ClassName)
 ```
@@ -94,7 +94,7 @@ Then, an instance of StaticMeshBoundary can correctly created by passing the cla
   static Object* createObject(std::string name);
 ```
 
-In addition, an instance of the reflected class can also be create from the PhysIKA Studio.
+In addition, an instance of the reflected class can also be create from the Peridyno Studio.
 
 
 ![Example](./nodes/createInstanceFromQt.jpg)
